@@ -1,0 +1,10 @@
+vertex,neighbors
+A,B,C
+B,D
+C,D,E
+D,F
+E,A
+F,D
+G,H
+H,G
+I,
